@@ -1,0 +1,2 @@
+#!/bin/bash
+paste -d, -- | cut -d, -f1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
